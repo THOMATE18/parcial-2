@@ -1,8 +1,9 @@
-# parcial-2
-Juan Diego Amador Carvajal 408648
-
 # Parcial 2 – Desarrollo de Software II  
-## Proyecto: API de Tareas
+## Proyecto: API de Tareas – “La Uno”
+
+# juan diego amador carvajal 
+
+---
 
 ## Descripción
 Este proyecto consiste en una API REST para la gestión de tareas, desarrollada con Node.js y Express.
@@ -10,6 +11,7 @@ Este proyecto consiste en una API REST para la gestión de tareas, desarrollada 
 La aplicación permite crear, listar, actualizar, eliminar y consultar tareas vencidas.  
 Para el almacenamiento se usa una estructura en memoria, lo que facilita la ejecución sin necesidad de una base de datos externa.
 
+---
 
 ## Arquitectura
 
@@ -45,8 +47,4 @@ Define la clase `Task` con las propiedades `id`, `title`, `description`, `status
 # DTO
 Filtra y da formato a los datos que llegan del cliente antes de ser enviados al service.
 
-
-link del video :
-
-https://youtu.be/F25bd8UxUu0
 
